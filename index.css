@@ -1,0 +1,34 @@
+h1{
+    font-size: 75px;
+    color: blue
+
+}
+#Dog{
+    font-size: 72px; 
+    color: blue 
+    
+   
+}
+#yeet{
+    font-size: 100px;
+    color: blue
+}
+.Square{
+    border: 1px black;
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 400px;
+    left: 300px;
+    background-color: #000033
+
+}
+#red{
+    background-color: #000033
+}
+
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+    
